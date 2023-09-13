@@ -1,2 +1,3 @@
 print('Hello GIT')
-print('aa')
+print('HI!')
+print('Name SeongJun')
